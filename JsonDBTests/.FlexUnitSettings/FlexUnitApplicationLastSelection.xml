@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="" >
+<testsuite  name="Default Test Suite" project="WwHTests">
+<testsuite name="wwhSuite.tests:TestRemoteMethodsCase" type="testcaseclass">
+<testcase name="testMatchUpdateCheckEmptyPlayedHandsUpdate" classname="wwhSuite.tests:TestRemoteMethodsCase"/>
+</testsuite>
+</testsuite>
+<portNumber value="8765" />
+</testrun>
